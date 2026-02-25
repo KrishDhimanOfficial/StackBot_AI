@@ -2,7 +2,8 @@
 
 StackBot AI is a modern, high-performance AI chat interface built with **Next.js 15**, **Tailwind CSS 4**, and **Framer Motion**. It provides a sleek, glassmorphic UI for interacting with locally hosted AI models via Ollama.
 
-![StackBot AI Interface](public/interface-preview.png) *(Note: Add your own screenshot here)*
+![StackBot AI Interface]
+![alt text](<Screenshot 2026-02-25 at 5.01.03 PM.png>)
 
 ## ✨ Features
 
