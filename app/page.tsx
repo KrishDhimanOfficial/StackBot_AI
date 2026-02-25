@@ -210,7 +210,7 @@ export default function Home() {
                     remarkPlugins={[remarkGfm]}
                     components={{
                       code(props) {
-                        const { children, className, node, ...rest } = props
+                        const { children, className, node, ref, ...rest } = props
                         const match = /language-(\w+)/.exec(className || '')
                         return match ? (
                           <div className="my-4 rounded-xl overflow-hidden shadow-2xl bg-zinc-950 border border-white/10">
